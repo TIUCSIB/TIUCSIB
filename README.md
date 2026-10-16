@@ -1,13 +1,15 @@
+
+
 ```diff
 +                 TIUCSIB · github
 +    ▄▄████▄▄     ──────────────────────────────
-+  ▄██████████▄   Name     : BISCUIT
-+  ██▄▄████▄▄██   Role     : Code Hobbyist & Tinkerer
++  ▄██████████▄   Name     : BISCUIT (TIUCSIB.reverse())
++  ██▄▄████▄▄██   Role     : Self-Taught / Hobbyist Dev
 +  ████████████   Front    : TS, React, Next.js, Vue, Expo
 +  ████████████   Back     : Node, Go, Python, PHP, NestJS
 +  ▀██▀████▀██▀   Infra    : Docker, Linux, Nginx, Cloudflare
 +   ▀  ▀  ▀  ▀    Focus    : Web/Mobile Apps & Automation
-+                 Status   : Coding just for fun ☕
++                 Contact  : /dev/null 
 +                 
 +                 ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
 ```

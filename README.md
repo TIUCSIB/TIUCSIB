@@ -1,6 +1,6 @@
 <p align="left">
-  <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" alt="pixel-cat" /> -->
-  <img src="https://media.giphy.com/media/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="32" alt="code-girl" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" alt="pixel-cat" />
+  <!-- <img src="https://media.giphy.com/media/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="100" alt="code-girl" /> -->
   <code><b>root@tiucsib:~#</b> neofetch</code>
 </p>
 

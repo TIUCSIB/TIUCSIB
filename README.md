@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" alt="pixel-cat" />
+  <code><b>root@tiucsib:~#</b> neofetch</code>
+</p>
 
 
 ```diff
@@ -13,3 +17,5 @@
 +                 
 +                 ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

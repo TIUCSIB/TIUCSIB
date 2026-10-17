@@ -18,9 +18,13 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
-          # --- 只保留你截图里的这两个板块 ---
+          # --- 只保留这两个板块 ---
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+          
+          # --- 关闭 AI 编程统计板块 ---
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           
           # --- 其余板块全部关闭 ---
           SHOW_OS: "False"
